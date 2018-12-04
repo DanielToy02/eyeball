@@ -1,4 +1,3 @@
-//add eyeball code here
 size(800,300);
 
 //left eye
